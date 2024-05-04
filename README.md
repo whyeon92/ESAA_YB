@@ -16,7 +16,7 @@
  - sklearn → 0322-0325
  - 시계열 → 0329
  - 평가 → 0401-0405
- - Classification →
+ - Classification → 0408-0503
  - Regression →
 
 

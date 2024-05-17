@@ -34,4 +34,5 @@
 ## 📊 mini_project
 YB 4조 팀프로젝트 모음 <br/>
 1차 [시각화 프로젝트 바로가기](https://github.com/Yujini68/ESAA/blob/main/YB%204%EC%A1%B0%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
+2차 [분류 프로젝트 바로가기](https://github.com/whyeon92/ESAA_YB/blob/mini_project/ESAA_miniproject2_Final.ipynb)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00462A&height=120&section=footer" />
